@@ -1,1 +1,1 @@
-print('HWLLO, WORLD')
+print('HELLO, GIT')
